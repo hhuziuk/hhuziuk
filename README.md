@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi there! My name is Heorhii Huziuk and I am a 18-year-old student and backend developer from Ukraine.🇺🇦
+My name is Heorhii Huziuk and I am a 18-year-old student and backend developer from Ukraine.🇺🇦
 
 [![Linkedin Badge](https://img.shields.io/badge/-hhuziuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heorhii-huziuk-a93900219/)](https://www.linkedin.com/in/heorhii-huziuk-a93900219/)
 [![Gmail Badge](https://img.shields.io/badge/-huziukwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huziukwork@gmail.com)](mailto:huziukwork@gmail.com)
