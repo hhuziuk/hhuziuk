@@ -22,6 +22,4 @@ My name is Heorhii Huziuk and I am a 18-year-old student and backend developer f
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hhuziuk.hhuziuk)
