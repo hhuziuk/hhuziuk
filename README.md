@@ -11,5 +11,3 @@ My name is Heorhii Huziuk and I am a 18-year-old student and backend developer f
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,express,gcp,git,js,ts,jest,mongodb,postgres,nodejs,postman,sequelize&perline=5)](https://skillicons.dev)
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hhuziuk.hhuziuk)
