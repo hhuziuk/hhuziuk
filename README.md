@@ -9,5 +9,5 @@ My name is Heorhii Huziuk and I am a 18-year-old student and backend NodeJS deve
 
 ## ⚡ Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,express,gcp,git,js,ts,jest,mongodb,postgres,redis,nodejs,postman,sequelize,linux,graphql,apollo&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,express,gcp,git,js,ts,jest,mongodb,postgres,redis,nodejs,postman,sequelize,linux,graphql&perline=6)](https://skillicons.dev)
 
