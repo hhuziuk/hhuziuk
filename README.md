@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 My name is Heorhii Huziuk and I am a 18-year-old CS student and backend NodeJS developer.
 
