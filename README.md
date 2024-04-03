@@ -11,5 +11,5 @@ Contact mail:
 
 ## ⚡ Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,docker,express,gcp,git,js,ts,jest,mongodb,postgres,mysql,redis,nodejs,postman,sequelize,linux,graphql&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,express,gcp,git,js,ts,jest,mongodb,postgres,mysql,redis,nodejs,postman,sequelize,linux,graphql&perline=6)](https://skillicons.dev)
 
