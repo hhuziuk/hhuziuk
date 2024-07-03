@@ -1,6 +1,6 @@
 ### 👋
 
-My name is Heorhii Huziuk and I am a 18-year-old CS student and backend NodeJS developer.
+My name is Heorhii Huziuk and I am a 19-year-old CS student and backend NodeJS developer.
 
 Contact mail:
 * huziukwork@gmail.com
