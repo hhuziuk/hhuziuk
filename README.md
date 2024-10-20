@@ -1,6 +1,6 @@
 # Hallo!👋
 
-My name is Heorhii Huziuk and I am a 19-year-old NodeJS | JavaScript | TypeScript developer
+My name is Heorhii Huziuk and I am a NodeJS | JavaScript | TypeScript developer
 
 [`🔵BonORM`](https://www.npmjs.com/package/bonorm) [`🌱Livesey`](https://github.com/livesey-finance)
 [`📚My Cookbook`](https://github.com/livesey-finance/livesey-how-to.git)
