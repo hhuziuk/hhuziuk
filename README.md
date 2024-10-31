@@ -9,4 +9,4 @@ Contact mail:
 * huziukwork@gmail.com
 
 My CV:
-*  [link](https://github.com/hhuziuk/cv/blob/main/Heorhii_Huziuk_cv.pdf) 
+*  [link](https://github.com/hhuziuk/cv/blob/main/Heorhii%20Huziuk-2.pdf) 
