@@ -1,9 +1,9 @@
 # Hallo!👋
 
-My name is Heorhii Huziuk and I am a NodeJS | JavaScript | TypeScript developer
+My name is Heorhii `George` Huziuk and I am a Node.js | JavaScript | TypeScript developer
 
 [`🔵BonORM`](https://www.npmjs.com/package/bonorm) 
-[`📚My Cookbook`](https://github.com/livesey-finance/livesey-how-to.git)
+[`🌸dahlia`](https://github.com/hhuziuk/dahlia.git)
 
 Contact mail:
 * huziukwork@gmail.com
