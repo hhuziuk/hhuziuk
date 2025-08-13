@@ -18,4 +18,4 @@ My name is Heorhii `"George"` Huziuk and I am a Node.js | JavaScript | TypeScrip
 * huziukwork@gmail.com
 
 **My CV:**
-*  [link](https://github.com/hhuziuk/cv/blob/main/heorhii-huziuk-resume-04-07.pdf)
+*  [link](https://github.com/hhuziuk/cv/blob/main/heorhii-huziuk-cv%20(2).pdf)
